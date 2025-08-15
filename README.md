@@ -59,13 +59,12 @@ Currently enhancing my skills in:
 
 ##  Let's Connect
 - **LinkedIn:** [linkedin.com/in/jane-nelson](https://www.linkedin.com/in/jane-nelson-aca/)  
-- **Email:** iduozeejane@gmail.com
 - **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iduozeejane@gmail.com)
 - **Portfolio:** (coming soon)
 
 ---
 
- **"Numbers tell the story, data writes the future — I bring both together."**  
+ **"Numbers tell the story, data writes the future - I bring both together."**  
 
 <!--
 **NelsonJane/NelsonJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
